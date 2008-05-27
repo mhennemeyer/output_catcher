@@ -1,3 +1,5 @@
+require 'stringio'
+
 class OutputCatcher
   class << self
     
