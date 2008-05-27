@@ -9,5 +9,5 @@ spec = Gem::Specification.new do |spec|
   spec.email = 'mhennemeyer@gmail.com' 
   spec.homepage = 'http://workunitgroup.com/2008/5/26/output-catcher-for-ruby-and-rails' 
   spec.files = Dir['lib/*.rb'] 
-  spec.version = '1.0.0' 
+  spec.version = '1.0.1' 
 end
