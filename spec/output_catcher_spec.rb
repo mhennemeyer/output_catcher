@@ -29,6 +29,7 @@ describe "OutputCatcher" do
       end
       err.should be_empty
     end
+    
   end
   
   describe ".catch_err" do

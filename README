@@ -35,8 +35,7 @@ Rails:
 
 Gem:
 
-  $ gem install output_catcher --source=http://gems.github.com
-  
+  $ gem install mhennemeyer-output_catcher
   
 
 Copyright (c) 2008 Matthias Hennemeyer, released under the MIT license
